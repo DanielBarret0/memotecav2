@@ -7,42 +7,20 @@ Memoteca é um aplicativo organizador de pensamentos e frases que permite cadast
 | :sparkles: Nome        | **Memoteca**
 | :label: Tecnologias | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 | :rocket: URL         | [Link do projeto]()
-| :fire: Desafio     | [Link do curso]()
+| :fire: Desafio     | [Link do curso](https://cursos.alura.com.br/course/javascript-evoluindo-sua-aplicacao-es6)
 
-## Banner 
-![](#vitrinedev)
+# Ao fazer essa unidade aprendi sobre: 
 
-## Confira toda trajetória do curso:
 
-![Gif](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/main/prints/gif-branches.gif)
 
-## 🛠️  Como rodar o projeto em seu PC
 
-Para executar a API fake, você vai precisar do NodeJS;
+## ⭐ Layout do projeto
+![Layout]()
 
-No terminal do seu editor de código siga essas etapas:
+# 🙋‍♂️ Autor
 
-Certifique-se de que o JSON Server esteja instalado globalmente ou localmente no seu projeto. Para instalá-lo globalmente, você pode usar o seguinte comando:
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielBarret0/codeChella/blob/main/LICENSE.md)
 
-```
-npm install -g json-server
-```
-Segundo passo é entrar na pasta backend atraves do terminal:
-```
-cd backend
-```
-Depois, o comando que você mencionou deve funcionar perfeitamente:
-```
-npm start
-```
+José Daniel Aragão Barreto
 
-Acesse o backend localmente em seu navegador:
-
-http://localhost:3000
-
-Para executar o frontend, abra o projeto no Visual Studio Code. Com a extensão Live Server instalada, clique com o botão direito no arquivo index.html e selecione "Open with Live Server" no menu de contexto.
-
-Acesse o frontend localmente em seu navegador:
-
-http://localhost:5500
-
+Acesse o meu [LinkedIn](https://www.linkedin.com/in/daniel-barreto-1b763216a/)
