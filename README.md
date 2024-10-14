@@ -1,6 +1,6 @@
 # Memoteca V2
 
-Memoteca é um aplicativo organizador de pensamentos e frases que permite cadastrar, listar, editar e deletar pensamentos, incluindo informações como conteúdo e autoria.
+A Memoteca é um aplicativo organizador de pensamentos e frases que permite cadastrar, listar, editar,  deletar, filtrar e favoritar pensamentos, incluindo informações como conteúdo, autoria e data.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
