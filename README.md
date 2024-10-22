@@ -11,8 +11,11 @@ Memoteca é um aplicativo organizador de pensamentos e frases que permite cadast
 
 # Ao fazer essa unidade aprendi sobre: 
 
-
-
+- Adicionar um campo de busca na interface HTML para permitir a busca de pensamentos;
+- Implementar uma função para filtrar pensamentos com base no termo de busca;
+- Atualizar a lista de pensamentos exibida dinamicamente conforme o termo de busca é digitado;
+- Utilizar o evento input para detectar mudanças no campo de busca e atualizar a interface com os resultados filtrados;
+- Adaptar a função responsável por renderizar para aceitar pensamentos filtrados e exibi-los corretamente.
 
 ## ⭐ Layout do projeto
 ![Layout]()
