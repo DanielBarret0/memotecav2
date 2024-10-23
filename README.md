@@ -18,7 +18,7 @@ Memoteca é um aplicativo organizador de pensamentos e frases que permite cadast
 - Ajustar o ícone do botão para refletir visualmente o estado de favorito (preenchido ou vazio).
 
 ## ⭐ Layout do projeto
-![Layout]()
+![Layout](https://github.com/DanielBarret0/memotecav2/blob/Unidade-2/prints/unidade-2.gif)
 
 # 🙋‍♂️ Autor
 
