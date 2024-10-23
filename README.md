@@ -11,8 +11,11 @@ Memoteca é um aplicativo organizador de pensamentos e frases que permite cadast
 
 # Ao fazer essa unidade aprendi sobre: 
 
-
-
+- Adicionar a funcionalidade de "favoritar" pensamentos, incluindo a atualização do back-end para armazenar o estado de favorito;
+- Criar e estilizar um botão de favoritar na interface;
+- Implementar uma função usando o método PATCH para atualizar o estado de favorito no backend;
+- Adicionar comportamento ao botão de favoritar para alternar o estado de favorito e atualizar a interface;
+- Ajustar o ícone do botão para refletir visualmente o estado de favorito (preenchido ou vazio).
 
 ## ⭐ Layout do projeto
 ![Layout]()
