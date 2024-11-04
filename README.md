@@ -12,7 +12,11 @@ Memoteca é um aplicativo organizador de pensamentos e frases que permite cadast
 # Ao fazer essa unidade aprendi sobre: 
 
 
-
+- Adicionar e configurar um campo de data no formulário para registrar a data de criação de pensamentos;
+- Implementar validações para impedir o cadastro de datas futuras, garantindo a integridade dos dados;
+- Criar e utilizar a função validarData() para incluir validações adicionais antes de salvar ou editar um pensamento, prevenindo a submissão de dados inválidos;
+- Inserir a data correta no objeto enviado à API ao salvar ou editar um pensamento, garantindo que as informações estejam completas e consistentes no back-end;
+- Atualizar o arquivo “backend/db.json”, incluindo o campo data para cada pensamento existente, a fim de manter os registros organizados e coerentes com o novo formato.
 
 ## ⭐ Layout do projeto
 ![Layout]()
